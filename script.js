@@ -21,17 +21,18 @@ let isRandom = false;
 let updateTimer;
 
 const music_list = [
+    {   
+        img : 'images/2.jpg',
+        name : 'Before it Sinks In',
+        artist : 'Flom',
+        music : 'music/before.mp3'
+        
+    },
     {
         img : 'images/1.jpg',
         name : 'Yesterday Once More',
         artist : 'Flom',
         music : 'music/yesterday.mp3'
-    },
-    {
-        img : 'images/2.jpg',
-        name : 'Before it Sinks In',
-        artist : 'Flom',
-        music : 'music/before.mp3'
     }
 ];
 
